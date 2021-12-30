@@ -5,7 +5,7 @@ error_reporting(0);
 <html>
     <head>
         <title>Agora vai</title>
-        <link rel="stylesheet" href="../include/css/bootstrap.min-4.css?v=2" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+        <link rel="stylesheet" href="assets/css/bootstrap.min-4.css?v=2" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     </head>
     <body>
 
@@ -612,8 +612,8 @@ function isPrime($num) {
     return true;
 }
 ?>
-<script type="text/javascript" src="../include/plugin/jquery-3.1.1.min.js"></script>
-<script type="text/javascript" src="../include/jquery.mask.min.js"></script>
+<script type="text/javascript" src="assets/plugin/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="assets/jquery.mask.min.js"></script>
 <script>
 $(document).ready(function(){
   $('#date').mask('00/00/0000');
