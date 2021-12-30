@@ -1,10 +1,7 @@
-<?php
-// Turn off all error reporting
-error_reporting(0);
-?>
+
 <html>
     <head>
-        <title>Agora vai</title>
+        <title>Código extramente feio 😖</title>
         <link rel="stylesheet" href="assets/css/bootstrap.min-4.css?v=2" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     </head>
     <body>
@@ -27,7 +24,7 @@ error_reporting(0);
 $msgErrorMegasena = '';
 $megasena = [];
 $valorDoJogoMegaSena = 4.50;
-$valorDoJogoLotoFacil = 2;
+$valorDoJogoLotoFacil = 3;
 $numerosMegaSenaPrimeiro = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 $numerosMegaSenaSegundo = [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30];
 $numerosMegaSenaTerceiro = [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45];
