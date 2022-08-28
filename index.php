@@ -375,7 +375,7 @@ $jogoOnzeMegasena = [$msNumeroModoUm[4], $msNumeroModoUm[5], $msNumeroModoUm[7],
                     marcarAcertosLotofacil($lotoFacilDoze,"12",$valorDoJogoLotoFacil);
                     marcarAcertosLotofacil($lotoFacilTrese,"13",$valorDoJogoLotoFacil);
                     marcarAcertosLotofacil($lotoFacilQuatorze,"14",$valorDoJogoLotoFacil);
-                    marcarAcertosLotofacil($lotoFacilQuatorze,"15",$valorDoJogoLotoFacil);
+                    marcarAcertosLotofacil($lotoFacilQuinze,"15",$valorDoJogoLotoFacil);
                     marcarAcertosLotofacil($lotoFacilDezeseis,"16",$valorDoJogoLotoFacil);
                     ?>
                     </div>
