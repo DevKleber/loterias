@@ -379,82 +379,82 @@ $jogoOnzeMegasena = [$msNumeroModoUm[4], $msNumeroModoUm[5], $msNumeroModoUm[7],
                     marcarAcertosLotofacil($lotoFacilDezeseis,"16",$valorDoJogoLotoFacil);
 
                     foreach($lotoFacilUm as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilDois as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilTres as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilQuatro as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilCinco as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilSeis as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilSete as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilOito as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilNove as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilDez as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilOnze as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilDoze as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilTreze as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilQuatorze as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilQuinze as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
 
                     foreach($lotoFacilDezeseis as $numero) {
-                        print "document.getElementById('n".$numero."').click();<br />";
+                        print "document.getElementById('n".trim($numero)."').click();<br />";
                     }
                     print "document.getElementById('colocarnocarrinho').click();<br />";
                     ?>
