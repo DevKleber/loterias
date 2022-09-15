@@ -304,7 +304,7 @@ $jogoOnzeMegasena = [$msNumeroModoUm[4], $msNumeroModoUm[5], $msNumeroModoUm[7],
                     <?php
                     if ($msgErrorMegasena == '') {
                         ?>
-                        <form action="random">
+                        <form action="">
                             <input onkeyup="getQtdNumber()" class="form-control" id="doisvirgula" type="text" name="megasena" value="<?=implode(",",$msNumeroModoUm)?>">
                         </form>
                         
@@ -623,7 +623,7 @@ $cont = 0;
 
     <div class="card" >
         <div class="card-body">
-            <form method="Post" action="">
+            <form method="Post" action="index.php">
                 <div class="row">
                     <div class=".col-md-12 .col-lg-12 col-sm-12">
                         <h2>Fechamento da cartela</h2><br />
