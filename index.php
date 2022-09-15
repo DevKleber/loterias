@@ -335,57 +335,57 @@ $jogoOnzeMegasena = [$msNumeroModoUm[4], $msNumeroModoUm[5], $msNumeroModoUm[7],
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoDoisMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoTresMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoQuatroMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoCincoMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoSeisMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoSeteMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoOitoMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoNoveMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoDezMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
                         foreach($jogoOnzeMegasena as $numero) {
                             print "document.getElementById('n".trim($numero)."').click();<br />";
                         }
                         print "document.getElementById('colocarnocarrinho').click();<br />";
-                        print "await new Promise(r => setTimeout(r, 1000));";
+                        print "await new Promise(r => setTimeout(r, 1000));<br />";
 
 
 
